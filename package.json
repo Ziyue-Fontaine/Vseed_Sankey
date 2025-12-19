@@ -1,0 +1,17 @@
+{
+  "name": "sankey_definitive_edition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@visactor/vchart": "^2.0.11",
+    "@visactor/vseed": "^0.2.9"
+  }
+}
